@@ -1,4 +1,5 @@
 # demo
 this my first git repository
 <br>
-author-dhruv maheta
+author-dhruv maheta learning
+
